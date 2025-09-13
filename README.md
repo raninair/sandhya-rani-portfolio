@@ -3,7 +3,9 @@ Hi, I'm Sandhya Rani A,
 Aspiring Software Engineer | Java & Python Enthusiast | Full Stack | HTML CSS
 
 Email : sandhuambi251@gmail.com
+
 Linkedin : https://www.linkedin.com/in/sandhya-rani-612371329/
+
 Github : https://github.com/raninair
 
 Skills
@@ -18,13 +20,15 @@ Skills
 
 Projects
 
-Collage admission management system
+1 Collage admission management system
+
 **tech: html, css, mysql,wamp
 * it used to meantian database of student
 *and admission process
 
 
 2 FIFA player mangement system
+
 **tech : html, php, css, wamp
 * it used to procees of football player management database
 
