@@ -1,5 +1,5 @@
 # sandhya-rani-portfolio
-Hi, i'm Sandhya Rani A,
+Hi, I'm Sandhya Rani A,
 Aspiring Software Engineer | Java & Python Enthusiast | Full Stack | HTML CSS
 
 Email : sandhuambi251@gmail.com
@@ -18,12 +18,15 @@ Collage admission management system
 **tech: html, css, mysql,wamp
 *it used to meantian database of student
 *and admission process
+
+
 2 FIFA player mangement system
 **tech : html, php, css, wamp
+* it used to procees of football player management database
 
-it used to procees of football player management database
+  
 3 block chain based government budget management system
 
-tech: python ,html ,javascript ,etherium, solidity, ganache
-the government budget system the funds allocate by govenment it's in not reach public by non-security that way we used the block-cahin
+**tech: python ,html ,javascript ,etherium, solidity, ganache
+*the government budget system the funds allocate by govenment it's in not reach public by non-security that way we used the block-cahin
 
